@@ -18,7 +18,10 @@ I also provided the estimated time required to complete each lesson, a link to t
 | Lesson        | Estimated time needed | Source Code  | Colab |
 | ------------- |:---------------------:| :-----------:| -----:|
 | OpenCV fundamentals       | 20 min | [Open](https://github.com/computationalcore/introduction-to-opencv/blob/master/notebooks/1-Fundamentals.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/1-Fundamentals.ipynb) |
-| **Total** | **20 min** |  |  |
+| Image stats and image processing       | 20 min | [Open](https://github.com/computationalcore/introduction-to-opencv/blob/master/notebooks/2-Image_stats_and_image_processing.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/2-Image_stats_and_image_processing.ipynb) |
+| Features in computer vision       | 20 min | [Open](https://github.com/computationalcore/introduction-to-opencv/blob/master/notebooks/3-Features.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/3-Features.ipynb) |
+| Face Detection      | 5 min | [Open](https://github.com/computationalcore/introduction-to-opencv/blob/master/notebooks/4-face_detection.ipynb) | [Open](https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/4-face_detection.ipynb) |
+| **Total** | **65 min** |  |  |
 
 ## License
 
