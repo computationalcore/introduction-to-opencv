@@ -32,5 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [Hannah](https://github.com/handee)
 * [HCC Summer School in Bremen](http://hcc.uni-bremen.de/school2016/)
 * [OpenCV](https://opencv.org/)
+* [Raph Trajano](https://github.com/raphtrajano)
+* [Nelson Perez](https://github.com/bilthon)
 
-And a special thanks to [Nelson Perez](https://github.com/bilthon) for reviewing the materials.
+And a special thanks to [Raph Trajano](https://github.com/raphtrajano) for reviewing and fixing the materials.
